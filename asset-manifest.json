@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e7b002e.css",
+    "main.js": "/static/js/main.82611c12.js",
+    "static/js/453.c0c1a03a.chunk.js": "/static/js/453.c0c1a03a.chunk.js",
+    "static/media/image1.png": "/static/media/image1.deb6a041ab8d4797106e.png",
+    "static/media/video2.mp4": "/static/media/video2.a2526043ee8743125cf8.mp4",
+    "static/media/video1.mp4": "/static/media/video1.912be12c0614513bf041.mp4",
+    "static/media/BMI.PNG": "/static/media/BMI.7aadf0a5af11b61d837a.PNG",
+    "static/media/pause.PNG": "/static/media/pause.f96c1e731c742436dd8a.PNG",
+    "static/media/shoulder.jpg": "/static/media/shoulder.21df30affa30fab15ca0.jpg",
+    "static/media/play.PNG": "/static/media/play.7a08b204b94201b7449f.PNG",
+    "static/media/image6.jpg": "/static/media/image6.1d175bc50938d0ecdac0.jpg",
+    "static/media/image4.avif": "/static/media/image4.148ada07befc6efdc0b9.avif",
+    "static/media/tricep.webp": "/static/media/tricep.709281379e0cf380cad1.webp",
+    "static/media/image7.jpg": "/static/media/image7.1dc1b2f935c42ee45467.jpg",
+    "static/media/inner_chest_exercises_600x.webp": "/static/media/inner_chest_exercises_600x.a7688d92636d6b918363.webp",
+    "static/media/pumpwikiLogo.png": "/static/media/pumpwikiLogo.56a7181028d83951b3b3.png",
+    "static/media/legs.jpg": "/static/media/legs.7ff0eb3723d96963a551.jpg",
+    "static/media/back.webp": "/static/media/back.ce58a14e53211a56c3ba.webp",
+    "static/media/image5.avif": "/static/media/image5.9e3b5bce9d63e8156b47.avif",
+    "index.html": "/index.html",
+    "main.7e7b002e.css.map": "/static/css/main.7e7b002e.css.map",
+    "main.82611c12.js.map": "/static/js/main.82611c12.js.map",
+    "453.c0c1a03a.chunk.js.map": "/static/js/453.c0c1a03a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7b002e.css",
+    "static/js/main.82611c12.js"
+  ]
+}
